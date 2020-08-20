@@ -2,6 +2,7 @@ package com.orm;
 
 public class TAdmin
 {
+	//定义管理员属性
 	private int userId;
 	private String userName;
 	private String userPw;
